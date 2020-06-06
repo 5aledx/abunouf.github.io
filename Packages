@@ -1,32 +1,16 @@
-Package: kr.xsf1re.stcpaybypass
-Version: 0.0.2
+Package: com.aka.istec 
+Mame: 5aledx
+Version: 2.1.7
 Architecture: iphoneos-arm
-Maintainer: 5aledx	
-Depends:  firmware (>= 13.0), mobilesubstrate 	
-Conflicts: com.unlimapps.uaupdatetools	
-Filename: debs/kr.xsf1re.stcpaybypass_0.0.2_iphoneos-arm.deb	
-Size: 424	
-MD5sum: 062db399bc3b5e0d485c60e6e9560c4c	
-SHA1: ff9ee0a61841b17f303b37f252a423bc3b687bba	
-SHA256: 00d101838f7554a4b0953e62614f5d6c8baf9494c129d8106408a7f06427b90b	
-Section: Tweaks	Section: Tweaks
-Depiction: https://5aledx.github.io/repo/	Depiction: https://repo.packix.com/package/com.ioscreatix.littlex/
-Name: STCPayBypass
-
-Package: com.cokepokes.appstoreplusplus11
-Version: 0.9.8-9
-Architecture: iphoneos-arm
-Maintainer: CokePokes
-Depends: firmware (>= 13.0), mobilesubstrate
-Conflicts: com.unlimapps.uaupdatetools
-Filename: deb/com.cokepokes.appstoreplusplus_0.9.8-9_iphoneos-arm.deb
-Size: 424
-MD5sum: d6b97e07e2166fdd11fcb8c3aafa30df
-SHA1: ecef6b7b272f89af8cbc661efe26d07f5cf63d94
-SHA256: b9a703c89b4b53a96e16e284a0dc6b908a28dc3f4420c930e78816afbf27bf2f
+Maintainer: اكتب اسمك
+Depends: firmware (>= 5.0), mobilesubstrate 
+Conflicts: 
+Filename: موقع الملف
+Size: 
+MD5sum: 
+SHA1: 
+SHA256: 
 Section: Tweaks
-Priority: optional
-Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3.1
-Author: XsF1re
-Depiction: https://5aledx.github.io/repo/
-Name: STCPayBypass
+Depiction: رابط صفحة الوصف 
+Name: اسم  الاداه 
+
