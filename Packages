@@ -11,13 +11,13 @@ SHA1: ff9ee0a61841b17f303b37f252a423bc3b687bba
 SHA256: 00d101838f7554a4b0953e62614f5d6c8baf9494c129d8106408a7f06427b90b	
 Section: Tweaks	Section: Tweaks
 Depiction: https://5aledx.github.io/repo/	Depiction: https://repo.packix.com/package/com.ioscreatix.littlex/
-Name: appstore++
+Name: STCPayBypass
 
 Package: com.cokepokes.appstoreplusplus11
 Version: 0.9.8-9
 Architecture: iphoneos-arm
 Maintainer: CokePokes
-Depends: firmware (>= 11.0), mobilesubstrate
+Depends: firmware (>= 13.0), mobilesubstrate
 Conflicts: com.unlimapps.uaupdatetools
 Filename: deb/com.cokepokes.appstoreplusplus_0.9.8-9_iphoneos-arm.deb
 Size: 424
@@ -29,4 +29,4 @@ Priority: optional
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-13.3.1
 Author: XsF1re
 Depiction: https://5aledx.github.io/repo/
-Name: AppStore++
+Name: STCPayBypass
