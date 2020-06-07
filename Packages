@@ -54,7 +54,7 @@ Architecture: iphoneos-arm
 Maintainer: 5aledx
 Depends: mobilesubstrate
 Conflicts: 
-Filename: com.ryleyangus.libertylite.beta_0.2.12_iphoneos-arm.deb
+Filename: debs/kr.xsf1re.alrajhimobilebypass_0.0.1_iphoneos-arm.deb
 Size: 418
 MD5sum: d5a5466d20bcf69f3d8295ab1480c5e4
 SHA1: 843c7f288364c11a510f3890586e8aa9bd3aa349
