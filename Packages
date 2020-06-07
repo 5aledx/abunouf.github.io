@@ -56,9 +56,9 @@ Depends: mobilesubstrate
 Conflicts: 
 Filename: com.ryleyangus.libertylite.beta_0.2.12_iphoneos-arm.deb
 Size: 418
-MD5sum: 4e90bb8e0d84abdba03dbbe14ac3b143
-SHA1: 0fc5221bd1b9efefe2381eec2129d64c993ffc46
-SHA256: c4fbe72bcabb7c98d01fe952d10da8937d6331b931e9ccaea875bcf4fd1abde6
+MD5sum: d5a5466d20bcf69f3d8295ab1480c5e4
+SHA1: 843c7f288364c11a510f3890586e8aa9bd3aa349
+SHA256: 5cc46e556805cfd68111249df4aa9272fa1b5dc543d7d0434ef1b7211f33c799
 Section: Tweaks
 Depiction: Bypass Jailbreak Detection of AlRajhi Mobile v4.1.1! https://5aledx.github.io/repo/ 
 Name: alrajhimobilebypass 
