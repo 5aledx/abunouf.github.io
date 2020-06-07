@@ -30,3 +30,19 @@ SHA256: 3160dca6db4bc6b9577c4df430a00e82be84f9c0ccdbf80c36859911319e504b
 Section: Tweaks
 Depiction: https://5aledx.github.io/repo/ 
 Name: hidejb 
+
+
+Package: com.ryleyangus.libertylite.beta 
+Version: 0.2.12
+Architecture: iphoneos-arm
+Maintainer: 5aledx
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: 
+Filename: com.ryleyangus.libertylite.beta_0.2.12_iphoneos-arm.deb
+Size: 4421
+MD5sum: 4e90bb8e0d84abdba03dbbe14ac3b143
+SHA1: 0fc5221bd1b9efefe2381eec2129d64c993ffc46
+SHA256: c4fbe72bcabb7c98d01fe952d10da8937d6331b931e9ccaea875bcf4fd1abde6
+Section: Tweaks
+Depiction: https://5aledx.github.io/repo/ 
+Name: Libertylite 
